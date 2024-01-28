@@ -25,3 +25,7 @@ LinkedIn topics - Proxy and cors
     -ref
 
 # Episode 5
+
+- ecommerce and hospital managment database model
+
+# Episode 6
