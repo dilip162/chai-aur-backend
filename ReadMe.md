@@ -25,3 +25,10 @@ LinkedIn topics - Proxy and cors
     -ref
 
 # Episode 5
+
+- ecommerce and hospital managment database model
+
+# Episode 6
+
+- setup the folder structure
+- setup prettier
