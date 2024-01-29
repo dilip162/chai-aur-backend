@@ -35,4 +35,11 @@ LinkedIn topics - Proxy and cors
 
 # Episode 7
 
--
+-connected to mongoDB atlas
+
+# Episode 8
+
+---
+
+-coockie parser, cors
+-middlewares
