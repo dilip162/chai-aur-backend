@@ -32,3 +32,7 @@ LinkedIn topics - Proxy and cors
 
 - setup the folder structure
 - setup prettier
+
+# Episode 7
+
+-
