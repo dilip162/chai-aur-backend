@@ -51,3 +51,8 @@ LinkedIn topics - Proxy and cors
 - mongoose-aggregate-paginate-v2 package
 - bcrypt
 - jsonwebtoken
+
+# Episode 10
+
+- Cloudinary, multer
+- upload file (fs)
