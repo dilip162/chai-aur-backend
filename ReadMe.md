@@ -39,7 +39,15 @@ LinkedIn topics - Proxy and cors
 
 # Episode 8
 
----
+- ***
 
 - coockie parser, cors
 - middlewares
+
+# Episode 9
+
+- ***
+- made several database models
+- mongoose-aggregate-paginate-v2 package
+- bcrypt
+- jsonwebtoken
