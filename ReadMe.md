@@ -56,3 +56,7 @@ LinkedIn topics - Proxy and cors
 
 - Cloudinary, multer
 - upload file (fs)
+
+# Episode 12
+
+- created the route for user registration
