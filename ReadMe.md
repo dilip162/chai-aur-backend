@@ -60,3 +60,7 @@ LinkedIn topics - Proxy and cors
 # Episode 12
 
 - created the route for user registration
+
+# Episode 13
+
+- ***
